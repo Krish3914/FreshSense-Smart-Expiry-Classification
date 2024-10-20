@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>SmadhanA.O: Flipkart Grid 6.O</h2><br>
+  <h2>SamadhanA.O: Flipkart Grid 6.O Robotics Challenge</h2><br>
 </div>
 
 <h3>Team Members:</h3> 
