@@ -1,20 +1,20 @@
 <div align="center">
-  <h2>CS-7641: Machine Learning - Group 43</h2><br>
+  <h2>SmadhanA.O: Flipkart Grid 6.O</h2><br>
 </div>
 
 <h3>Team Members:</h3> 
-Jaiswal Shivanee, Sama Sai Srikesh Reddy, Anugundanahalli Ramachandra Reshma, Sivakumar Nikhil Viswanath, Khochare Janavi
+Krish Agrawal
 
 
 <h2> Final Project Video</h2>
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V2FfINs40sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/RzdMp3VMdWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 
 <h2> Project Proposal Video</h2>
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zQJS_rvAnV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/lZI6U1vtPMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 
