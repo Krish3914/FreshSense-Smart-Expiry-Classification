@@ -269,7 +269,13 @@ Expiry date detection can be very helpful in many real-world scenarios. Either t
 
 # Gantt Chart and Proposed Timeline
 [View File](https://gtvault-my.sharepoint.com/:x:/g/personal/rramachandra7_gatech_edu/Ecd-YPwCuFBDuvu44UX_7J0B0jfClvfIibe9kC5hi7yXXw?e=a2dXz0)
+<br><br>
 
+## Profile-Info
+- Email:  krishagrawal3914@gmail.com
+- Portfolio: https://krishfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/krishagrawal-softwaredevelopment/
+<!--
 # Contribution Table
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
